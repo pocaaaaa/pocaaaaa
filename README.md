@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=pocaaaaa)](https://git.io/streak-stats) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pocaaaaa&theme=Default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pocaaaaa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/><br/><br/>
 
 ## 🌼 Waka Info 🌼
