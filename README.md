@@ -21,4 +21,76 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 3.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 114 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+🌃 Evening                100 commits         ██████████████░░░░░░░░░░░   54.64 % 
+🌙 Night                  72 commits          ██████████░░░░░░░░░░░░░░░   39.34 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Wednesday                86 commits          ████████████░░░░░░░░░░░░░   46.99 % 
+Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Friday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+PLSQL                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/pocaaaaa/pocaaaaa/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/10/2023 15:41:02 UTC
 <!--END_SECTION:waka-->
