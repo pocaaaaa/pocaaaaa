@@ -45,16 +45,13 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![js](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit)
 ![js](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<br/><br/>
+<br/><br/><br/>
 
-##
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pocaaaaa)](https://git.io/streak-stats)
-
-## 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=pocaaaaa)](https://git.io/streak-stats) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pocaaaaa&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/><br/><br/>
 
-## 🔨 Once I've used 🔨 
-
+## 🌸 Waka Info 🌸
 <!--START_SECTION:waka-->
 **저는 저녁형 인간이에요. 🦉** 
 
