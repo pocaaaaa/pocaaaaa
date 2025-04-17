@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=pocaaaaa&height=180&animation=blink&fontAlign=70&fontSize=60&fontColor=FFFFFF)
 
-<!-- 조회수 & wakaTime -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpocaaaaa&count_bg=%23A1DFF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+<!-- wakaTime -->
 [![wakatime](https://wakatime.com/badge/user/018b629d-5d31-40e4-aedc-3856628d0de3.svg?style=social)](https://wakatime.com/@018b629d-5d31-40e4-aedc-3856628d0de3)
 
 <!-- 깃허브 스탯 --> 
